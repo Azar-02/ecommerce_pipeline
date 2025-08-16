@@ -30,3 +30,5 @@ services:
 
 volumes:
   postgres_data:
+
+# standalone | Login with username: admin  password: mZa4DcrPqHrS5vd9
